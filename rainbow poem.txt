@@ -5,3 +5,4 @@ green
 blue
 yellow
 pink
+are the colours of the rainbow
