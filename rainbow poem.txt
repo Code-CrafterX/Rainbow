@@ -7,3 +7,4 @@ yellow
 pink
 are the colours of the rainbow
 I am adding something here.
+Checking can i edit github file through vs code without cloning
